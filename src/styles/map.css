@@ -1,0 +1,39 @@
+.custom-div-icon {
+  background: none;
+  border: none;
+}
+
+.marker-cluster {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  text-align: center;
+  color: #333;
+  border: 2px solid #fff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.marker-cluster div {
+  margin: 5px;
+}
+
+.party-popup {
+  max-width: 300px;
+}
+
+.party-popup h3 {
+  margin: 0;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.party-popup p {
+  margin: 5px 0;
+  color: #666;
+}
+
+.party-info {
+  padding: 10px;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
